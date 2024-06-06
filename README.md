@@ -1,1 +1,1 @@
-# odin-landing-page
+This is my project for the Odin's Foundation Course.
